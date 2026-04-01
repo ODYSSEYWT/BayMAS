@@ -21,3 +21,7 @@
 <img width="731" height="1021" alt="image" src="https://github.com/user-attachments/assets/e4db731a-77a5-40d7-bec3-317722097988" />
 
 <img width="726" height="135" alt="image" src="https://github.com/user-attachments/assets/b27411ef-8e87-4d2f-83f6-9772e85bb0fe" />
+
+# Pareto analysis
+
+<img width="7151" height="2818" alt="pareto_per_config" src="https://github.com/user-attachments/assets/ad4f33d9-3a27-4a5a-a030-a700df253ecc" />
