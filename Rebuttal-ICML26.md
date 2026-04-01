@@ -16,6 +16,8 @@
 
 # Full proof of Theorem 3.5 and Theorem 3.6
 
-<img width="584" height="815" alt="image" src="https://github.com/user-attachments/assets/10b052c6-1ef9-4984-a80b-5d9670be914a" />
+<img width="727" height="1021" alt="image" src="https://github.com/user-attachments/assets/dc0bf2fd-9a0a-4599-ba35-cc4c1442f9a6" />
 
-<img width="591" height="1013" alt="image" src="https://github.com/user-attachments/assets/22f317f7-d01f-431e-bec8-36a79db418c2" />
+<img width="731" height="1021" alt="image" src="https://github.com/user-attachments/assets/e4db731a-77a5-40d7-bec3-317722097988" />
+
+<img width="726" height="135" alt="image" src="https://github.com/user-attachments/assets/b27411ef-8e87-4d2f-83f6-9772e85bb0fe" />
