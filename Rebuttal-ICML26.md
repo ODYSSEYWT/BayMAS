@@ -13,3 +13,9 @@
 # Figure 4
 
 <img width="2100" height="750" alt="seqlevel_logprob_dist_Qwen_Qwen3-30B-A3B-Instruct-2507_CoTMath" src="https://github.com/user-attachments/assets/01226e00-a865-4048-9508-282f78bf8555" />
+
+# Full proof of Theorem 3.5 and Theorem 3.6
+
+<img width="697" height="924" alt="image" src="https://github.com/user-attachments/assets/90ee9cf0-8c69-4fc6-b34c-7675c8ee088e" />
+
+<img width="591" height="1013" alt="image" src="https://github.com/user-attachments/assets/22f317f7-d01f-431e-bec8-36a79db418c2" />
