@@ -16,11 +16,11 @@
 
 # Full proof of Theorem 3.5 and Theorem 3.6
 
-<img width="727" height="1021" alt="image" src="https://github.com/user-attachments/assets/dc0bf2fd-9a0a-4599-ba35-cc4c1442f9a6" />
+<img width="1090" height="1531" alt="image" src="https://github.com/user-attachments/assets/dc0bf2fd-9a0a-4599-ba35-cc4c1442f9a6" />
 
-<img width="731" height="1021" alt="image" src="https://github.com/user-attachments/assets/e4db731a-77a5-40d7-bec3-317722097988" />
+<img width="1090" height="1531" alt="image" src="https://github.com/user-attachments/assets/e4db731a-77a5-40d7-bec3-317722097988" />
 
-<img width="726" height="135" alt="image" src="https://github.com/user-attachments/assets/b27411ef-8e87-4d2f-83f6-9772e85bb0fe" />
+<img width="1089" height="203" alt="image" src="https://github.com/user-attachments/assets/b27411ef-8e87-4d2f-83f6-9772e85bb0fe" />
 
 # Pareto analysis
 
