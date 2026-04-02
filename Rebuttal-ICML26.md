@@ -24,4 +24,4 @@
 
 # Pareto analysis
 
-<img width="4768" height="1879" alt="pareto_analysis" src="https://github.com/user-attachments/assets/617af746-97b3-4fb2-acb5-f2f49b1793d8" />
+<img width="2576" height="1409" alt="pareto_analysis" src="https://github.com/user-attachments/assets/617af746-97b3-4fb2-acb5-f2f49b1793d8" />
