@@ -28,4 +28,6 @@
 
 # Concrete example
 
+Setup: Consider an MBPP task: "Write a function to check if a list is sorted in ascending order." Agent A (planner) sends a plan to Agent B (developer), who writes code conditioned on the plan.
+
 <img width="3460" height="1373" alt="concrete_example" src="https://github.com/user-attachments/assets/72b83ab3-4c8a-4ee5-80be-9828d1d6a301" />
