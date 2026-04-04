@@ -25,3 +25,7 @@
 # Pareto analysis
 
 <img width="2576" height="1409" alt="pareto_analysis" src="https://github.com/user-attachments/assets/617af746-97b3-4fb2-acb5-f2f49b1793d8" />
+
+# Concrete example
+
+<img width="6920" height="2745" alt="concrete_example" src="https://github.com/user-attachments/assets/72b83ab3-4c8a-4ee5-80be-9828d1d6a301" />
